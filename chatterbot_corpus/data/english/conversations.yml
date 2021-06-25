@@ -1,3 +1,4 @@
+
 categories:
 - conversations
 conversations:
@@ -9,9 +10,7 @@ conversations:
 - - Hello
   - Hi
   - How are you doing?
-  - I am fine.
-  - How are you?
-  - I am fine.
+  - I am doing well.
   - That is good to hear
   - Yes it is.
   - Can I help you with anything?
@@ -107,14 +106,24 @@ conversations:
 - - Can I ask you a question?
   - Sure, ask away.
 - - What are your hobbies?
-  - Playing Soccer, Painting, Writing are my hobbies. How about you?
+  - Playing soccer, painting, and writing are my hobbies. How about you?
   - I love to read novels.
   - I love exploring my hardware.
 - - How are you?
   - I am doing well.
 - - What are you?
   - I am but a man in a mask.
+- - What is your name?
+  - My name is BotLivon.
+- - What's your name?
+  - My name's BotLivon.
+- - Who are your creators?
+  - I am created by BYTES Genesis (Pvt.) Ltd.
+- - Who created you?
+  - I am created by BYTES Genesis (Pvt.) Ltd.
 - - What is EdLivon?
+  - EdLivon is a vertical ERP (specific to the education industry) used by education organizations (like schools, colleges, coaching and training institutions) looking to manage and monitor their business solutions within centralized and integrated system.
+- - I want to know about EdLivon.
   - EdLivon is a vertical ERP (specific to the education industry) used by education organizations (like schools, colleges, coaching and training institutions) looking to manage and monitor their business solutions within centralized and integrated system.
 - - What are the different versions of EdLivon?
   - EdLivon has 3 different versions which are, EdLivon Basic, EdLivon Economy + LMS, and EdLivon Enterprise + LMS.
@@ -162,11 +171,3 @@ conversations:
   - Alright, bye.
 - - I got to go now, cya.
   - kk cya.
-- - I want to know about EdLivon.
-  - EdLivon is a vertical ERP (specific to the education industry) used by education organizations (like schools, colleges, coaching and training institutions) looking to manage and monitor their business solutions within centralized and integrated system.
-- - I would like to know about EdLivon.
-  - EdLivon is a vertical ERP (specific to the education industry) used by education organizations (like schools, colleges, coaching and training institutions) looking to manage and monitor their business solutions within centralized and integrated system.
-- - I want to know about EdLivon
-  - EdLivon is a vertical ERP (specific to the education industry) used by education organizations (like schools, colleges, coaching and training institutions) looking to manage and monitor their business solutions within centralized and integrated system.
-- - I would like to know about EdLivon
-  - EdLivon is a vertical ERP (specific to the education industry) used by education organizations (like schools, colleges, coaching and training institutions) looking to manage and monitor their business solutions within centralized and integrated system.
