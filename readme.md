@@ -1,3 +1,6 @@
+# This repository has been archived.
+The provided links do not function now.
+
 My forked/custom chatterbot corpus for BotLivon, EdLivon(vertical ERP for education industry)'s chatbot.
 
 Interact with the chatbot at:
